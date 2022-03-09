@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A passionate beginner developer from Poland</h3>
 
-- 🔭 I’m currently working on [QRCode generator & scanner](https://github.com/Patrykkoo/qrcode-generator-and-scanner)
+- 🔭 I’m currently working on ---
 
 - 🌱 I’m currently learning **something new**
 
